@@ -22,7 +22,7 @@ export const projects = [
     },
     {
         title: 'Expenses Tracker',
-        description: 'A small project made in 2 days for the Raccoons Hackathon 2024. It lets you add notes about your expenses and then graphically visualize them, sorted by categories.',
+        description: 'A small project made in 2 days (one developer) for the Raccoons Hackathon 2024. It lets you add notes about your expenses and then graphically visualize them, sorted by categories.',
         projectLink: 'https://github.com/robertsergeev/raccoons-2024',
         websiteLink: 'https://finhelp.netlify.app/',
         techStack: ['React', 'JavaScript', 'Redux Toolkit', 'CSS'],
@@ -30,7 +30,7 @@ export const projects = [
     },
     {
         title: 'Travel Page',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dignissimos fugit, impedit nihil nulla!',
+        description: 'A static website featuring an itinerary for a trip to the Netherlands. It includes interactive elements such as a slider, image gallery, pop-up windows, a burger menu and an interactive map.',
         projectLink: 'https://github.com/robertsergeev/amsterdam',
         websiteLink: 'https://victor-travel.netlify.app',
         techStack: ['HTML', 'CSS', 'JavaScript', 'Google Maps API'],
