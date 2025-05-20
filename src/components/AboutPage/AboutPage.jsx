@@ -1,5 +1,5 @@
 import React from 'react';
-import characterImg from '../../../public/img/character.png';
+import characterImg from '../../../img/character.png';
 import './AboutPage.css'
 
 const AboutPage = () => {

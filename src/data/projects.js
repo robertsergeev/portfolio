@@ -1,7 +1,7 @@
-import todoListScreen from "../../public/screenshots/todolist.png";
-import cryptoAppScreen from "../../public/screenshots/cryptoapp.png";
-import finHelpScreen from "../../public/screenshots/finhelp.png";
-import travelPageScreen from "../../public/screenshots/travelpage.png";
+import todoListScreen from "../../img/screenshots/todolist.png";
+import cryptoAppScreen from "../../img/screenshots/cryptoapp.png";
+import finHelpScreen from "../../img/screenshots/finhelp.png";
+import travelPageScreen from "../../img/screenshots/travelpage.png";
 
 export const projects = [
     {

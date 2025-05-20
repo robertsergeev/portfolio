@@ -9,6 +9,8 @@
 
 .about-image {
     max-width: 300px;
+    display: flex;
+    align-items: center;
 }
 
 .about-image img{
@@ -27,6 +29,11 @@
 
 .about-description h2{
     font-size: 1.75em;
+    margin-bottom: 15px;
+}
+
+.about-description p{
+    margin-bottom: 15px;
 }
 
 .about-links ul{
@@ -46,4 +53,10 @@
 .about-description a:hover {
     color: #0d47a1;
     text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .about {
+        flex-wrap: wrap;
+    }
 }
